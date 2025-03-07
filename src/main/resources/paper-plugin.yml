@@ -1,0 +1,9 @@
+name: DeadLocation
+version: '1.0-SNAPSHOT'
+main: me.seoungmin.deadLocation.DeadLocation
+api-version: '1.21'
+
+commands:
+  dl:
+    description: "DeadLocation Command"
+    usage: "/dl"
